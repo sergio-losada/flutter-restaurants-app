@@ -1,0 +1,41 @@
+name: restaurantes_gijon
+description: A new Flutter project.
+
+# Prevent accidental publishing to pub.dev.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_html: ^2.2.1
+  flutter_localizations:
+    sdk: flutter
+  http: ^0.13.4
+  url_launcher: ^6.1.0
+  get: any
+  filter_list: ^1.0.1
+  google_maps_flutter: ^2.1.3
+  font_awesome_flutter: ^10.1.0
+  shared_preferences: ^2.0.13
+  fluttertoast: ^8.0.9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Enable generation of localized Strings from arb files.
+  generate: true
+
+  assets:
+    # Add assets from the images directory to the application.
+    - assets/images/

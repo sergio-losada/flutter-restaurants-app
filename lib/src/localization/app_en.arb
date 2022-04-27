@@ -1,0 +1,86 @@
+{
+  "appTitle": "Gijon Restaurants",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "call": "Call",
+  "@call": {
+    "description": "Text of the Call button"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Text of the Email button"
+  },
+  "web": "Web site",
+  "@web": {
+    "description": "Text of the Web button"
+  },
+  "placeholder": "Search for name or address",
+  "@placeholder": {
+    "description": "Placeholder of the search bar"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings title"
+  },
+  "systemTheme": "System theme",
+  "@systemTheme": {
+    "description": "System theme title"
+  },
+  "lightTheme": "Light theme",
+  "@lightTheme": {
+    "description": "Light theme title"
+  },
+  "darkTheme": "Dark theme",
+  "@darkTheme": {
+    "description": "Dark theme title"
+  },
+  "about": "About",
+  "@about": {
+    "description": "Info about the restaurant"
+  },
+  "address": "Address",
+  "@address": {
+    "description": "Restaurant address"
+  },
+  "schedule": "Schedule",
+  "@schedule": {
+    "description": "Restaurant schedule"
+  },
+  "tags": "Tags",
+  "@tags": {
+    "description": "Restaurant tags"
+  },
+  "location": "Directions - Location",
+  "@location": {
+    "description": "Where is the restaurant located in the map"
+  },
+  "directions": "Directions - By bus",
+  "@directions": {
+    "description": "How to get to the restaurant by bus"
+  },
+  "line": "Bus line",
+  "@line": {
+    "description": "Bus line number"
+  },
+  "initStop": "First stop",
+  "@initStop": {
+    "description": "First stop of the bus line"
+  },
+  "lastStop": "Last stop",
+  "@lastStop": {
+    "description": "Last stop of the bus line"
+  },
+  "filters": "Filters",
+  "@filters": {
+    "description": "Filters title"
+  },
+  "socialMedia": "Social media",
+  "@socialMedia": {
+    "description": "Social media title"
+  },
+  "launchError": "This URL is not available",
+  "@launchError": {
+    "description": "Launch error message"
+  }
+}

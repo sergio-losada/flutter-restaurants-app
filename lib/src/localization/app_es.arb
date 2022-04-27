@@ -1,0 +1,23 @@
+{
+    "appTitle": "Restaurantes Gijón",
+    "call": "Llamar",
+    "email": "Correo electrónico",
+    "web": "Página web",
+    "placeholder": "Busca por nombre o dirección",
+    "settings": "Ajustes",
+    "systemTheme": "Tema del sistema",
+    "lightTheme": "Tema claro",
+    "darkTheme": "Tema oscuro",
+    "about": "Acerca de",
+    "address": "Dirección",
+    "schedule": "Horario",
+    "tags": "Etiquetas",
+    "location": "Cómo llegar - Ubicación",
+    "directions": "Cómo llegar - Autobús",
+    "line": "Línea de bus",
+    "initStop": "Inicio",
+    "lastStop": "Final",
+    "filters": "Filtros",
+    "socialMedia": "Redes sociales",
+    "launchError": "La URL no está disponible"
+}
