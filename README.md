@@ -1,4 +1,4 @@
-# restaurantes_gijon
+# flutter-restaurant-app
 
 Repositorio para la aplicación de visualización de restaurantes en la ciudad de Gijón, programada en Flutter.
 
