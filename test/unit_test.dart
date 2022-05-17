@@ -51,5 +51,17 @@ void main() {
       expect(restaurants.last.twitter, "");
       expect(restaurants.last.instagram, "");
     });
+
+    test('Tests para el metodo de parseo de las lineas de bus', () async {
+      // Tests para el metodo que parsea la cadena que indica las lineas de bus
+      var restaurants = await RestaurantService.getRestaurants();
+      var bus = restaurants.first.buses;
+      var buses = RestaurantService.getBusLine(bus);
+      expect(buses.length, 3);
+      expect(buses[0], "Línea 4");
+      expect(buses[1], "El Lauredal ");
+      expect(buses[2], "Campus Universitario");
+    });
   });
+
 }
