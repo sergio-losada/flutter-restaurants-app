@@ -14,7 +14,7 @@ class SettingsService {
   Future<void> updateThemeMode(ThemeMode theme) async {
     
     // Almacenar en las SharedPreferences el nuevo tema a traves del metodo estatico del repositorio 
-     SettingsRepository.setThemeMode(theme);
+    SettingsRepository.setThemeMode(theme);
   }
   
 }

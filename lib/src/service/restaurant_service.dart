@@ -3,7 +3,6 @@ import 'dart:convert';
 import 'package:restaurantes_gijon/src/dto/restaurant.dart';
 import 'package:http/http.dart' as http;
 
-
 class RestaurantService {
   
   // La antigua URL del ayuntamiento de Gijon esta caida
